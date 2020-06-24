@@ -20,8 +20,8 @@
         </foaf:Person>
     </maintainer>
     <repository>
-        <CVSRepository>
+        <GitRepository>
             <browse rdf:resource="https://github.com/MaastrichtU-IDS/annotator-docs.git"/>
-        </CVSRepository>
+        </GitRepository>
     </repository>
 </Project>
